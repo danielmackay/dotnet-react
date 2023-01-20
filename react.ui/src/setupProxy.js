@@ -2,6 +2,7 @@
 
 const context = [
     "/weatherforecast",
+    "/swagger"
 ];
 
 module.exports = function (app) {
